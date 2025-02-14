@@ -1,7 +1,5 @@
 ### **📌 Financial Market Prediction Using Machine Learning**  
 
-```md
-# 📈 Financial Market Prediction Using Machine Learning
 
 ## 🚀 Overview  
 This project explores the use of **machine learning** techniques to predict **stock, forex, and cryptocurrency prices**. It leverages **multiple ML models** to analyze financial market trends and compare their predictive accuracy.
