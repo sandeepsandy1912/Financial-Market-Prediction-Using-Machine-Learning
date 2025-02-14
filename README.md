@@ -1,5 +1,3 @@
----
-
 ### **📌 Financial Market Prediction Using Machine Learning**  
 
 ```md
@@ -30,8 +28,8 @@ This project explores the use of **machine learning** techniques to predict **st
 ## 📂 Project Structure  
 ```bash
 financial-market-prediction/
-│── data/                           # Data files (if applicable)
-│── models/                         # Saved trained models (if applicable)
+│── data/                           # Data files
+│── models/                         # Saved trained models 
 │── notebooks/                      # Jupyter Notebooks for EDA & analysis
 │── src/                            # Python scripts for model training & evaluation
 │    ├── data_preprocessing.py      # Data cleaning & feature engineering
@@ -41,9 +39,6 @@ financial-market-prediction/
 │── results/                        # Evaluation results
 │── best_models_summary.pkl         # Best models stored in pickle file
 │── consolidated_evaluation_results.pkl  # Consolidated evaluation results
-│── MA981_Dissertation.pdf          # Full dissertation report
-│── requirements.txt                 # Dependencies
-│── README.md                        # Project documentation
 ```
 
 ---
